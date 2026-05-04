@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي خذني إلى عالم جميل
+> شوقي إليك كأنه نهر يسيل
+> نارك في قلبي ليس لها مثيل
+> أنت وحدك للحب الدليل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
