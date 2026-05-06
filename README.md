@@ -10,9 +10,10 @@
 |-------|---------|
 | Title | Ma3ak Bakamel |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 20, 2026 |
+| Lyric Writing Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma3ak-bakamel/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Apply for Music License: Ma3ak Bakamel](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
