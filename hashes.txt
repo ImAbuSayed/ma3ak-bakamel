@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ma3ak Bakamel
+
+This log tracks the cryptographic history and versioning for the song **Ma3ak Bakamel** (ma3ak-bakamel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T19:09:07.471342 | `v1` | `cab2690cfb6decea4253377f767be68bbb8a7db81362fb01b36f765f9b429e6a` | `8d8bf3c2c4947cba36af96f370b74c6ef54a32db43c62d4564f28346bcff7711` | `2026-05-08_ma3ak-bakamel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
